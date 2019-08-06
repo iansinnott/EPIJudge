@@ -22,3 +22,10 @@ __pycache__/
 cpp_build
 
 epi_judge_java/java_build/
+
+# Ignore files I don't want to show up in fuzzy search
+epi_judge_java
+epi_judge_java_solutions
+epi_judge_cpp
+epi_judge_cpp_solutions
+epi_judge_python_solutions
